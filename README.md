@@ -8,6 +8,10 @@ Transport is needed for AI ↔ MCP communication.
 
 you can test your MCP server before plugging in an AI client by using the MCP Inspector. The Inspector is a developer tool that connects to your MCP server via transport (usually stdio) and lets you manually call tools, inspect schemas, and see responses — perfect for debugging.
 
+What is Agentic Loop?
+A. Call tool and get result then think again and call tool get result think again and repeat until it gets required result.
+
+---------------------------INspector----------------------------------------------------------------------------------------------------------------
 Here’s how you can set it up and run it:
 
 01
